@@ -1,0 +1,20 @@
+{
+  "name": "tutorial-pwa-capture-camera",
+  "version": "1.0.1",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "author": "Jan Badrov",
+  "license": "ISC",
+  "dependencies": {
+    "@koa/multer": "^2.0.2",
+    "@koa/router": "^9.0.0",
+    "koa": "^2.7.0",
+    "koa-static": "^5.0.0",
+    "multer": "^1.4.2",
+    "pretty-console-colors": "^1.0.6"
+  }
+}
